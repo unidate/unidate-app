@@ -23,7 +23,8 @@
     "url": "git+https://github.com/unidate/unidate-app.git"
   },
   "author": "UniDate Development Team",
-  "license": "Copyright",
+  "license": "UNLICENSED",
+  "private": true,
   "dependencies": {
     "electron-config": "^0.2.1",
     "electron-updater": "^1.14.2"
